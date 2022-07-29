@@ -1,0 +1,61 @@
+header .col-md-2 img{
+	padding: 20px;
+
+}
+
+header .col-md-10 img{
+	width: 100%;
+	height: 650px;
+}
+header .col-md-10 h1{
+	text-align: center;
+	padding: 20px;
+}
+header .col-md-10 p{
+	text-align: center;
+	text-decoration: none;
+}
+.Food-menu .col-md-10 h1{
+	text-align: center;
+	padding: 20px;
+
+}
+.Food-menu{
+	padding: 20px;
+}
+.Food-menu .col-md-4{
+	text-align: center;
+}
+.Food-menu .col-md-4 img{
+	width: 100%;
+} 
+.Food-menu .col-md-4 h3{
+	text-align: center;
+	padding: 20px;
+}
+.Food-menu .col-md-4 a{
+	text-align: center;
+}
+footer .row{
+	text-align: center;
+}
+footer .icon{
+	background-color: #FF9d57;
+	padding: 20px;
+}
+footer .col-md-4 img{
+	padding: 5px;
+}
+footer .col-md-8 .footer-menu ul li{
+	list-style: none;
+	display: inline-block;
+	padding: 20px;
+	text-align: center;
+}
+footer .col-md-8 .footer-menu ul li a{
+	text-decoration: none;
+	color:#4a4a4a;
+}
+footer .col-md-8 .footer-menu ul li a:hover{
+	color: blue;
+}
